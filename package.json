@@ -1,0 +1,13 @@
+{
+  "name": "calacapp",
+  "version": "1.0.0",
+  "description": "Calc app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+
+  },
+  "author": "Svyatoslav Oleg Russky",
+  "license": "MIT"
+}
