@@ -8,6 +8,6 @@
     "start": "node ./src/index.js"
 
   },
-  "author": "Svyatoslav Oleg Russky",
+  "author": "Svyatoslav Oleg Russkiy",
   "license": "MIT"
 }

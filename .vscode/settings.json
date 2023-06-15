@@ -1,3 +1,18 @@
-{
-    "autoHide.autoHideSideBar": false
-}
+    {
+        "workbench.colorTheme": "Retro Poster",
+        "workbench.iconTheme": "vscode-icons",
+        "autoHide.autoHideSideBar": false,
+        "editor.fontFamily": "Consolas, 'Courier New', monospace",
+        "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss06', 'zero'",
+        "cSpell.words": [
+            "hhtps",
+            "npmjs",
+            "pixi"
+        ],
+        "files.exclude": {
+            "**/.git": true,
+            "**/.svn": true,
+            "**/.hg": true,
+            "**/CVS": true
+        }
+    }

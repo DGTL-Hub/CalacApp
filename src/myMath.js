@@ -2,7 +2,7 @@
  * @file myMath.js
  * @module myMath
  * @description A small command line calc application.
- * @requires {@link hhtps://www.npmjs.com/package/path|path}
+ * @requires {@link https://www.npmjs.com/package/path|path}
  * @author Svyatoslav Oleg Russkiy
  * @date 2023/06/13
  * @copyright Copyright @ 2023-06-09 by Svyatoslav Oleg Russkiy all rights reserved.

@@ -1,9 +1,9 @@
 /**
  * @profile: prompt.js
  * @module prompt
- * @description a small promt to get input from the user. 
- * @requires {@link hhtps://www.npmjs.com/package/path|path}
- * @requires {@link hhtps://www.npmjs.com/package/path|path}
+ * @description a small prompt to get input from the user. 
+ * @requires {@link https://www.npmjs.com/package/path|path}
+ * @requires {@link https://www.npmjs.com/package/path|path}
  * @author Svyatoslav Oleg Russkiy
  * @date 2023/06/09
  * @copyright Copyright @ 2023-06-09 by Svyatoslav Oleg Russkiy all rights reserved.
@@ -15,7 +15,7 @@ let baseFileName = path.basename(module.filename, path.extname(module.filename))
 let namespacePrefix = `prompt.${baseFileName}.`;
 let term = 13; // carriage return
 
-// promt signature
+// prompt signature
 /**
  * @function prompt
  * @param {*} ask
